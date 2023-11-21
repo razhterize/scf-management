@@ -94850,7 +94850,7 @@ for(s=this.b,r=B.b.gak(s),s=new A.hl(r,new A.asl(),A.bw(s).i("hl<1>")),q="";s.u(
 o=p.ax
 if(o!==""&&o!=="-"&&o!=null)q+="<@"+o+">\n"
 else{o=p.ay
-q=o!==""&&o!=null?q+("@"+o):q+("@"+A.j(p.as))}}A.ze(new A.pr(q))
+q=o!==""&&o!=null?q+("@"+o+"\n"):q+("@"+A.j(p.as)+"\n")}}A.ze(new A.pr(q))
 s=this.a.c.aa(t.Pu)
 s.toString
 s.f.DJ(B.RD)},
